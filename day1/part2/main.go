@@ -30,7 +30,7 @@ var numbers = [...]struct {
 }
 
 func main() {
-	file, err := os.Open("./input")
+	file, err := os.Open("../input")
 	if err != nil {
 		log.Fatal(err)
 	}

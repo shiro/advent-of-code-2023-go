@@ -16,9 +16,8 @@ Advent of code puzzles.
 Clone the repository and run:
 
 ```bash
-cd day1
-go run ./part1/main.go
-go run ./part2/main.go
+cd day1/part1
+go run .
 ```
 
 ## Authors
