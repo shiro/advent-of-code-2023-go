@@ -35,7 +35,6 @@ func main() {
 		to   string
 	}][]mapping{}
 	var from, to string
-	_, _ = from, to
 
 	for scanner.Scan() {
 		raw := scanner.Text()
